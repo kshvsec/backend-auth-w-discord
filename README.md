@@ -1,4 +1,4 @@
-# WIZZHUT BLUEPRINT
+# BLUEPRINT
 - Tried to make something that people can use to nuke discord servers for free or money (with better perks and custom stuff) but quit halfway through because I lost interest in the topic.
 
 - The script is not licensed hence if you decide to use any of the code, kindly drop credits to my github account :D
